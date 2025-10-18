@@ -20,8 +20,9 @@ For now its just:
 
 8.Gnome sort
 
-
+---------------
 You should have <SDL2.SDL.h> in path for launch it.
+---------------
 
 Launch:
 
